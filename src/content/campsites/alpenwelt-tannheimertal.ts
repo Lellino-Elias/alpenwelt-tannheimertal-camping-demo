@@ -70,7 +70,7 @@ const alpenwelt: CampsiteConfig = {
   },
 
   breather: {
-    image: { src: `${IMG}/gallery-de2e857751.webp`, alt: "Sonnige Berghänge im Tannheimer Tal" },
+    image: { src: `${IMG}/gallery-87305bd808.webp`, alt: "Gämsen auf dem Gipfel im Tannheimer Tal, mitten in den Tiroler Bergen" },
     line: "Auf rund 1.100 Metern, mitten in den Bergen Tirols.",
   },
 
@@ -121,14 +121,14 @@ const alpenwelt: CampsiteConfig = {
         name: "Einraum-Appartement",
         kind: "für 2 Personen",
         text: "Helle Einraum-Wohnung mit eigener Küche, Bad und Bergblick — ideal für Paare und kurze Auszeiten.",
-        image: { src: `${IMG}/gallery-91ed730881.webp`, alt: "Helles Einraum-Appartement mit Doppelbett am Camping Alpenwelt" },
+        image: { src: `${IMG}/gallery-95b761424a.webp`, alt: "Einraum-Appartement mit Doppelbett und warmem Ambiente am Camping Alpenwelt" },
         features: ["Eigene Küche", "Glasfaser-WLAN"],
       },
       {
         name: "Ferienwohnung 6",
         kind: "für Familien",
         text: "Mehr Platz für die ganze Familie: Wohnküche, separater Schlafbereich und ein zusätzliches Bett.",
-        image: { src: `${IMG}/gallery-f899c03e6a.webp`, alt: "Familien-Ferienwohnung mit Zusatzbett am Camping Alpenwelt" },
+        image: { src: `${IMG}/gallery-deddc14b61.webp`, alt: "Schlafbereich der Ferienwohnung 6 mit Doppelbett am Camping Alpenwelt" },
         features: ["Eigene Küche", "Glasfaser-WLAN"],
       },
       {
